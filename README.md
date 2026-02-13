@@ -10,5 +10,5 @@ Test on root Pixel 4a , OS:Evolution X , Android 14
 https://github.com/wangyu-/udp2raw
 https://github.com/wangyu-/UDPspeeder
 
-<img width="1080" height="2340" alt="Screenshot_20260213-155333_UDP Speeder" src="https://github.com/user-attachments/assets/33ee31c8-c785-40e3-9eb5-49630b50194e" />
-<img width="1080" height="2340" alt="Screenshot_20260213-155500_v2rayNG" src="https://github.com/user-attachments/assets/437f3844-bddd-4635-ba4c-9ac80b3c926f" />
+<img alt="Screenshot_20260213-155333_UDP Speeder" src="https://github.com/user-attachments/assets/33ee31c8-c785-40e3-9eb5-49630b50194e" width="300" />
+<img alt="Screenshot_20260213-155500_v2rayNG" src="https://github.com/user-attachments/assets/437f3844-bddd-4635-ba4c-9ac80b3c926f" width="300"/>
