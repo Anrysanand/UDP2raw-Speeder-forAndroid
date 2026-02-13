@@ -4,6 +4,8 @@
 
 如果是像我一样，用v2ray连接本地的udpspeeder进行转发的话，切勿开启全局模式代理，不然APP的通信会被覆盖，会形成本地死循环而无法连接，我无法解决这个问题，请开启手动分流，只代理需要代理的APPs
 
+Test on root Pixel 4a , OS:Evolution X , Android 14
+
 其他配置详细请去看原主 
 https://github.com/wangyu-/udp2raw
 https://github.com/wangyu-/UDPspeeder
