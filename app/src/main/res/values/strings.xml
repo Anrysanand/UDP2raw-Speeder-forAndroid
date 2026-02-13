@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UDP Speeder</string>
+
+    <!-- Default Parameters -->
+    <string name="speederv2_defaults">-c -l0.0.0.0:2222  -r127.0.0.1:3333 -f20:10 -k "passwd"</string>
+    <string name="udp2raw_defaults">-c -l0.0.0.0:3333  -r44.55.66.77:4096  -k "passwd" --raw-mode faketcp -a</string>
+
+    <!-- UI Texts -->
+    <string name="custom_params_title">自定義啟動參數：</string>
+    <string name="params_hint">輸入參數 (例如: -c -r 1.2.3.4...)</string>
+    <string name="button_start">啟動工具</string>
+    <string name="button_save">保存參數</string>
+    <string name="button_stop">強制停止</string>
+    <string name="log_title">運行日誌：</string>
+    <string name="log_placeholder">等待操作...\n</string>
+
+    <!-- Log Messages -->
+    <string name="log_attempting_root_start">[系統] 正在嘗試以 Root 啟動 %1$s...\n</string>
+    <string name="log_params_saved">\n[系統] 當前參數已保存。\n</string>
+
+</resources>
